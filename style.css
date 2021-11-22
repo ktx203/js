@@ -1,0 +1,8 @@
+body {
+    background: fuchsia;
+}
+
+.tab {
+    position: absolute;
+    left: 45%;
+}
