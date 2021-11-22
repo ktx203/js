@@ -12,11 +12,11 @@ body {
 #tab {
     position: absolute;
     top: 60%;
-    left: 40%;
+    left: 47%;
     cursor: pointer;
     width: 100px;
 }
 #head{
     text-align: center;
-    font: Courier;
+    font-family: Courier New;
 }
